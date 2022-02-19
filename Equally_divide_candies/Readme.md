@@ -1,5 +1,5 @@
 ## Equally divide candies
-Given three bottles with different number of candies, print the steps required such that all three bottles will have same number of candies or print 'Not Possible' if candies can't be divided equally in three bottle.
+Given three bottles with different number of candies, print the steps required such that all three bottles will have same number of candies. Total sum of candies  in all bottles must be multiple of 3.
 
 	Input- 	Enter candies in bottle 1: 12
 		Enter candies in bottle 2: 15
