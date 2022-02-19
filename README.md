@@ -1,2 +1,2 @@
-# NG-Meraki-_Projects
+# NG-Meraki-Projects
 Projects for Meraki Curriculum
